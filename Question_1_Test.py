@@ -1,4 +1,4 @@
-import Question_1_Sol
+from Question_1_Sol import question1
 import pytest
 
 def Test_Question1(res):
